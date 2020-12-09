@@ -1,0 +1,86 @@
+Página Web personal:http://156.35.98.162/index.html
+
+Estructura HTML:
+	Mi sitio Web personal tiene la siguiente estructura HTML:
+	- Index.html
+			- Barra de navegación
+				Se posiciona en la parte superior de la página y es común a todas las pestañas
+				Contiene los enlaces a el resto de pestañas
+				Tiene un diseño de caja coloreada y con los enlaces posicionados en el margen derecho 
+			- Cabecera
+				Contiene el título de bienvenida a la web
+				Esta construida con una imagen de fondo que ocupa toda la pantalla
+			- Seccion
+				Fondo en color 
+				Contiene el título de la seccion
+				Contiene un texto y un video colocados sobre una flexbox
+			- Pie
+				Fondo en color 
+				Contiene el título del pie
+				Contiene un texto con los datos de contacto 
+	- Aficiones.html
+			- Barra de navegación
+				Igual a la página principal
+			- Seccion	
+				Fondo en color 
+				Contiene el título de la seccion 
+				Contiene un pequeño texto descriptivo
+				Contiene varias imágenes colocadas sobre una flexbox
+	- Portfolio.html
+			- Barra de navegación
+				Igual a la página principal
+			- Seccion
+				Fondo en color 
+				Contiene el título de la seccion 
+				Contiene una tabla con imágenes y texto sobre mi experiencia profesional y educativa 
+	- Viajes.html
+			- Barra de navegación
+				Igual a la página principal
+			- Seccion
+				Fondo en color 
+				Contiene el título de la seccion 
+				Contiene un texto, una imagen y un video colocados sobre una flexbox
+Estructura CSS:
+	Mi sitio Web personal tiene la siguiente estructura CSS:
+	- Headerprincipal.css
+			- Estilo para Header
+				Da estilo a la cabecera de bienvenida
+				Se caracteriza por ser una cabecera con imagen de fondo que ocupa todo el ancho de pantalla, salvo un pequeño margen 
+			- Estilo para los títulos del Header
+				Da estilo a los títulos sobre la imagen de bienvenida
+				Se caracteriza por que los títulos están centrados longitudinalmente a la imagen de fondo 
+	- Headerprincipal.css
+			- Estilo para Header
+				Da estilo a la cabecera de bienvenida
+				Se caracteriza por ser una cabecera con imagen de fondo que ocupa todo el ancho de pantalla, salvo un pequeño margen 
+			- Estilo para los títulos del Header
+				Da estilo a los títulos sobre la imagen de bienvenida
+				Se caracteriza por que los títulos están centrados longitudinalmente a la imagen de fondo 
+	- Layout.css
+			- Estilo para el cuerpo
+				Da estilo al cuerpo y al formato de letra
+			- Estilo barra de navegación
+				Da estilo a la barra de navegación y a los enlaces que contiene 
+				Se caracteriza por darle un color de fondo en tono lila 
+				Se caracteriza por alinear los enlaces a la derecha 
+	- Main.css
+			- Estilo para secciones
+				Da estilo a todas las secciones de la web
+				Se caracteriza por dar color de fondo igual que la barra de navegación
+			- Estilo para division
+				Da estilo a todos los artículos de la web
+				Se caracteriza por alinear los objetos en una flexbox con dirección longitudinal 
+				Se caracteriza por dar el mismo color de fondo y margen que la seccion 
+			- Estilo para el pie
+				Da estilo al pie de la página principal
+				Se caracteriza por dar el mismo color de fondo y margen que la seccion 
+	- Multimedia.css
+			- Estilo para imágenes y videos
+				Da estilo a todas las imágenes y videos de la web 
+				Se caracteriza por determinar los márgenes y tamaños de fotos y videos
+	- Tables.css
+			- Da estilo a las tablas de la web
+				Se caracteriza por dar el mismo color de fondo que la seccion 
+				Determina los márgenes y posicionamiento de la tabla
+
+			

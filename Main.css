@@ -1,0 +1,36 @@
+section {
+    color: white; /* Color de fondo */
+	background-color: #d3bfb7; /* color del recuadro */
+	padding: 1% 2% 1% 2% ; /*Regla del Reloj */
+	margin: 2% 1%;
+	height: inherit; 
+}
+
+h2 {
+	font-size: medium;
+}
+
+div {
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap; 
+    align-items: flex-start;
+    justify-content:center;
+    color: white; /* Color de fondo */
+	background-color: #d3bfb7; /* color del recuadro */
+	padding: 1% 2% 1% 2% ; /*Regla del Reloj */
+	margin: 2% 1%;
+	height: inherit; 
+}
+
+div p {
+	margin: 2% auto;
+}
+
+footer {
+	color: white; /* Color de fondo */
+	background-color: #d3bfb7; /* color del recuadro */
+	padding: 1% 2% 1% 2% ; /*Regla del Reloj */
+	margin: 2% 1%;
+}
+

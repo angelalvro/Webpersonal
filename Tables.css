@@ -1,0 +1,13 @@
+table {
+    color: white; /* Color de fondo */
+	background-color: #d3bfb7; /* color del recuadro */
+	padding: 1% 2% 1% 2% ; /*Regla del Reloj */
+	margin: 2% auto;
+	height: inherit; 
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 0.05em solid #ddd;
+}
