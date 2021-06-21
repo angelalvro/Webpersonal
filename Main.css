@@ -1,6 +1,6 @@
 section {
-    color: white; /* Color de fondo */
-	background-color: #d3bfb7; /* color del recuadro */
+    color: #030303; /* Color de fondo */
+	background-color: #a5e7f3; /* color del recuadro */
 	padding: 1% 2% 1% 2% ; /*Regla del Reloj */
 	margin: 2% 1%;
 	height: inherit; 
@@ -16,8 +16,8 @@ div {
     flex-wrap: wrap; 
     align-items: flex-start;
     justify-content:center;
-    color: white; /* Color de fondo */
-	background-color: #d3bfb7; /* color del recuadro */
+    color: #030303; /* Color de fondo */
+	background-color: #a5e7f3; /* color del recuadro */
 	padding: 1% 2% 1% 2% ; /*Regla del Reloj */
 	margin: 2% 1%;
 	height: inherit; 
@@ -28,9 +28,39 @@ div p {
 }
 
 footer {
-	color: white; /* Color de fondo */
-	background-color: #d3bfb7; /* color del recuadro */
+	color: #030303; /* Color de fondo */
+	background-color: #a5e7f3; /* color del recuadro */
 	padding: 1% 2% 1% 2% ; /*Regla del Reloj */
 	margin: 2% 1%;
 }
+
+span.finded{
+	background: #F00;
+	color: #FFF;
+}
+
+button {
+	background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+
+  .button1 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #4CAF50;
+  }
+
+  .button:hover {
+	background-color: #4CAF50; /* Green */
+	color: white;
+  }
 
