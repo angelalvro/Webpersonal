@@ -1,5 +1,5 @@
 table {
-    color: white; /* Color de fondo */
+    color: #030303; /* Color de fondo */
 	background-color: #a5e7f3; /* color del recuadro */
 	padding: 1% 2% 1% 2% ; /*Regla del Reloj */
 	margin: 2% auto;
@@ -9,5 +9,5 @@ table {
 th, td {
     padding: 8px;
     text-align: left;
-    border-bottom: 0.05em solid #ddd;
+    border-bottom: 0.05em solid #030303;
 }
